@@ -1,0 +1,3 @@
+/home/carla/Documents/softwareSolutions/downsampleTool/build/CMakeFiles/rebuild_cache.dir
+/home/carla/Documents/softwareSolutions/downsampleTool/build/CMakeFiles/downsampleTool.dir
+/home/carla/Documents/softwareSolutions/downsampleTool/build/CMakeFiles/edit_cache.dir

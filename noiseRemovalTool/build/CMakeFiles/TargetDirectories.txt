@@ -1,0 +1,3 @@
+/home/carla/Documents/softwareSolutions/noiseRemovalTool/build/CMakeFiles/rebuild_cache.dir
+/home/carla/Documents/softwareSolutions/noiseRemovalTool/build/CMakeFiles/edit_cache.dir
+/home/carla/Documents/softwareSolutions/noiseRemovalTool/build/CMakeFiles/noiseRemovalTool.dir

@@ -1,0 +1,3 @@
+/home/carla/Documents/softwareSolutions/NARFTool/build/CMakeFiles/rebuild_cache.dir
+/home/carla/Documents/softwareSolutions/NARFTool/build/CMakeFiles/edit_cache.dir
+/home/carla/Documents/softwareSolutions/NARFTool/build/CMakeFiles/NARFTool.dir

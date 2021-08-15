@@ -1,0 +1,3 @@
+/home/carla/Documents/softwareSolutions/normalsCropboxTest/build/CMakeFiles/rebuild_cache.dir
+/home/carla/Documents/softwareSolutions/normalsCropboxTest/build/CMakeFiles/cropboxTool.dir
+/home/carla/Documents/softwareSolutions/normalsCropboxTest/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/carla/Documents/softwareSolutions/folderPlyToPcd/build/CMakeFiles/rebuild_cache.dir
+/home/carla/Documents/softwareSolutions/folderPlyToPcd/build/CMakeFiles/edit_cache.dir
+/home/carla/Documents/softwareSolutions/folderPlyToPcd/build/CMakeFiles/folderPlyToPcd.dir

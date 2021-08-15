@@ -1,0 +1,3 @@
+/home/carla/Documents/softwareSolutions/cylinderSegmentation/build/CMakeFiles/rebuild_cache.dir
+/home/carla/Documents/softwareSolutions/cylinderSegmentation/build/CMakeFiles/edit_cache.dir
+/home/carla/Documents/softwareSolutions/cylinderSegmentation/build/CMakeFiles/cylinderSegmentation.dir
