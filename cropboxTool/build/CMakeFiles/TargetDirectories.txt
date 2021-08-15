@@ -1,3 +1,0 @@
-/home/carla/Documents/softwareSolutions/cropboxTool/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/softwareSolutions/cropboxTool/build/CMakeFiles/cropboxTool.dir
-/home/carla/Documents/softwareSolutions/cropboxTool/build/CMakeFiles/edit_cache.dir

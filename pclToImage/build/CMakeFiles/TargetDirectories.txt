@@ -1,3 +1,0 @@
-/home/carla/Documents/softwareSolutions/pclToImage/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/softwareSolutions/pclToImage/build/CMakeFiles/edit_cache.dir
-/home/carla/Documents/softwareSolutions/pclToImage/build/CMakeFiles/pclToImage.dir

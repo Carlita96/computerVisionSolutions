@@ -1,3 +1,0 @@
-/home/carla/Documents/softwareSolutions/passThroughFilter/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/softwareSolutions/passThroughFilter/build/CMakeFiles/edit_cache.dir
-/home/carla/Documents/softwareSolutions/passThroughFilter/build/CMakeFiles/passThroughFilter.dir

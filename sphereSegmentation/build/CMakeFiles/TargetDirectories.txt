@@ -1,3 +1,0 @@
-/home/carla/Documents/softwareSolutions/sphereSegmentation/build/CMakeFiles/edit_cache.dir
-/home/carla/Documents/softwareSolutions/sphereSegmentation/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/softwareSolutions/sphereSegmentation/build/CMakeFiles/sphereSegmentation.dir

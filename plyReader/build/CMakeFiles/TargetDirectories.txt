@@ -1,3 +1,0 @@
-/home/carla/Documents/plyReader/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/plyReader/build/CMakeFiles/plyReader.dir
-/home/carla/Documents/plyReader/build/CMakeFiles/edit_cache.dir

@@ -1,3 +1,0 @@
-/home/carla/Documents/softwareSolutions/translationRotationFinder/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/softwareSolutions/translationRotationFinder/build/CMakeFiles/translationRotationFinder.dir
-/home/carla/Documents/softwareSolutions/translationRotationFinder/build/CMakeFiles/edit_cache.dir

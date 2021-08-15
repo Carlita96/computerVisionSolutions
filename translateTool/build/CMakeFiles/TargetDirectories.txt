@@ -1,3 +1,0 @@
-/home/carla/Documents/softwareSolutions/translateTool/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/softwareSolutions/translateTool/build/CMakeFiles/translateTool.dir
-/home/carla/Documents/softwareSolutions/translateTool/build/CMakeFiles/edit_cache.dir

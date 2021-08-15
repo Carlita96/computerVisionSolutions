@@ -1,3 +1,0 @@
-/home/carla/Documents/softwareSolutions/templateMatching/build/CMakeFiles/rebuild_cache.dir
-/home/carla/Documents/softwareSolutions/templateMatching/build/CMakeFiles/templateMatching.dir
-/home/carla/Documents/softwareSolutions/templateMatching/build/CMakeFiles/edit_cache.dir
